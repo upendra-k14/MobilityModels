@@ -3,9 +3,9 @@ DGMA Implementation
 
 Requirements
 -------------
-python>=3.5
-matplotlib==2.0.2
-numpy==1.13.0
+- python>=3.5
+- matplotlib==2.0.2
+- numpy==1.13.0
 
 How to install
 --------------
